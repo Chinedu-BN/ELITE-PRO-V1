@@ -37,7 +37,7 @@
 <p align="center"> 
 
 ## DEPLOYMENT METHOD 
-- First fork and star my Repository.
+- First fork and star my Repository. **[FORK](https://github.com/EliteProTech/ELITE-PRO-V1/fork)**
 - Upload session-id (creds.json) on session folder.
 - Edit .env to your choice..
 - *Deploy on [BOT-HOSTING.NET](https://bot-hosting.net/)*
