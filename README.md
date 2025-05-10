@@ -32,5 +32,65 @@
 </p>
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=BBDEFB&lines=WELCOME+TO+ELITE+PRO+V1+REPO+MADE+BY;CHINWO+CHINEDU+EMMANUEL;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)  
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center"> 
+
+## DEPLOYMENT METHOD 
+- First fork and star my Repository.
+- Upload session-id (creds.json) on session folder.
+- Edit .env to your choice..
+- *Deploy on [BOT-HOSTING.NET](https://bot-hosting.net/)*
+- *Deploy on [Render](https://render.com)*
+- *Deploy on [Katabump](https://dashboard.katabump.com/auth/login)*
+- *Deploy on [Optiklink](https://optiklink.com/)*
+- *Deploy on [HEROKU](https://dashboard.heroku.com/new)*
    
  ---
+
+## FOR TERMUX/SSH/UBUNTU
+```
+Before inputting these commands in termux... You have to extract the bot file in your internal storage. (Downloads folder)
+
+apt update && apt upgrade
+pkg update && pkg upgrade
+pkg install bash
+pkg install git -y
+pkg install nodejs -y 
+pkg install ffmpeg -y 
+pkg install wget
+pkg install imagemagick -y
+pkg install yarn
+termux-setup-storage
+cd /storage/emulated/0/Download/ELITE-PRO-V1-main
+yarn install
+npm start
+```
+---
+
+## FOR STARTING TERMUX AGAIN
+```
+cd /storage/emulated/0/Download/ELITE-PRO-V1-main
+npm start
+```
+---
+
+## FOR 24/7 ACTIVATION TERMUX/SSH/UBUNTU
+```
+bash
+npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+Paste this after the installation
+```
+---
+
+<p align="Left">
+    <a align="center">
+  <a aria-label="WEBSITE" href="https://elitepro-website.vercel.app/" target="_blank">
+    <img alt="ELITEPRO-WEB" src="https://img.shields.io/badge/ELITEPRO WEB-25D366?style=for-the-badge&logo=online&logoColor=white" />
+</a>
+<a aria-label="OTHER REPO" href="https://github.com/EliteProTech/Elite-Pro-V2" target="_blank">
+    <img alt="OTHER REPO" src="https://img.shields.io/badge/OTHER REPO-0E1241?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
